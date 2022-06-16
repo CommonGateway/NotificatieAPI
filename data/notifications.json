@@ -1,5 +1,5 @@
 {
-  "collection": "https://raw.githubusercontent.com/VNG-Realisatie/notificatieservices/main/docs/api-specification/notifications.yaml",
+  "collection": "https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/OAS.yaml",
   "schemas": {
     "Event": [
       {
