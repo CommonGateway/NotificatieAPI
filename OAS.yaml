@@ -1988,7 +1988,7 @@ components:
         - $ref: "#/components/schemas/EventExtension"
         - properties:
             data:
-              type: object
+              type: array
               additionalProperties:
                 type: string
               nullable: true
