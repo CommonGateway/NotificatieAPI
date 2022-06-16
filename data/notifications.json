@@ -27,6 +27,58 @@
           "data_base64": "string",
           "dataref": "http://example.com"
         }
+      },
+      {
+        "properties": {
+          "specversion": "1.0",
+          "id": "7215e273-4ca8-45f8-abdd-1f8178f564a6",
+          "source": "urn:nld:oin:00000001234567890000:systeem:Zaaksysteem",
+          "domain": "nl.vng.zaken",
+          "type": "nl.vng.zaken.zaak_gesloten",
+          "time": "2022-03-14T11:12:30",
+          "subscription": "a2de4777-1160-4562-a996-b79d27b30c99",
+          "subscriberReference": "1285c6bc-1b54-48d8-96e2-c55a3f970c39",
+          "datacontenttype": "application/json",
+          "dataschema": "https:www.vng.nl/zgw/zaken/status_gewijzigd_schema.json",
+          "subject": "string",
+          "sequence": "42",
+          "sequencetype": "Integer",
+          "<key1>": "<value1>",
+          "<key2>": "<value2>",
+          "<keyN>": "<valueN>",
+          "data": {
+            "property1": "string",
+            "property2": "string"
+          },
+          "data_base64": "string",
+          "dataref": "http://example.com"
+        }
+      },
+      {
+        "properties": {
+          "specversion": "1.0",
+          "id": "f6a7a699-63bc-4b6c-96e7-0d6b53c3c1d1",
+          "source": "urn:nld:oin:00000001234567890000:systeem:Zaaksysteem",
+          "domain": "nl.vng.zaken",
+          "type": "nl.vng.klanten.contactmoment_gewijzigd",
+          "time": "2022-02-11T18:13:12",
+          "subscription": "a2de4777-1160-4562-a996-b79d27b30c99",
+          "subscriberReference": "1285c6bc-1b54-48d8-96e2-c55a3f970c39",
+          "datacontenttype": "application/json",
+          "dataschema": "https:www.vng.nl/zgw/zaken/status_gewijzigd_schema.json",
+          "subject": "string",
+          "sequence": "42",
+          "sequencetype": "Integer",
+          "<key1>": "<value1>",
+          "<key2>": "<value2>",
+          "<keyN>": "<valueN>",
+          "data": {
+            "property1": "string",
+            "property2": "string"
+          },
+          "data_base64": "string",
+          "dataref": "http://example.com"
+        }
       }
     ]
   }
