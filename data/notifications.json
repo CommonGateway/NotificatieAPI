@@ -1,0 +1,33 @@
+{
+  "collection": "https://raw.githubusercontent.com/VNG-Realisatie/notificatieservices/main/docs/api-specification/notifications.yaml",
+  "schemas": {
+    "Event": [
+      {
+        "properties": {
+          "specversion": "1.0",
+          "id": "2febb675-b06c-4f3a-8fc3-f6649aa25ae4",
+          "source": "urn:nld:oin:00000001234567890000:systeem:Zaaksysteem",
+          "domain": "nl.vng.zaken",
+          "type": "nl.vng.zaken.status_gewijzigd",
+          "time": "2022-03-16T15:29:30",
+          "subscription": "a2de4777-1160-4562-a996-b79d27b30c99",
+          "subscriberReference": "1285c6bc-1b54-48d8-96e2-c55a3f970c39",
+          "datacontenttype": "application/json",
+          "dataschema": "https:www.vng.nl/zgw/zaken/status_gewijzigd_schema.json",
+          "subject": "string",
+          "sequence": "42",
+          "sequencetype": "Integer",
+          "<key1>": "<value1>",
+          "<key2>": "<value2>",
+          "<keyN>": "<valueN>",
+          "data": {
+            "property1": "string",
+            "property2": "string"
+          },
+          "data_base64": "string",
+          "dataref": "http://example.com"
+        }
+      }
+    ]
+  }
+}

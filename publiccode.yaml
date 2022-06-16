@@ -27,12 +27,12 @@ description:
     shortDescription: "Een API voor data rondom notifications."
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/OAS.yaml&nocors'
     apiDocumentation: 'https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/OAS.yaml'
-    # testDataLocation: 'https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/data/data.json'
+    testDataLocation: 'https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/data/notifications.json'
   en:
     shortDescription: "An API for data around notifications."
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/OAS.yaml&nocors'
     apiDocumentation: 'https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/OAS.yaml'
-    # testDataLocation: 'https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/data/data.json'
+    testDataLocation: 'https://raw.githubusercontent.com/CommonGateway/notification_publiccode/main/data/notifications.json'
 
 dependsOn:
   open:
