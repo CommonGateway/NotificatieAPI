@@ -1821,8 +1821,6 @@ paths:
       security:
         - JWT-Claims:
             - events.consume
-servers:
-  - url: /api/v1
 components:
   securitySchemes:
     JWT-Claims:
