@@ -1,4 +1,4 @@
-# Notifications API
+# Notificatie API
 [![Automated Testing](https://github.com/CommonGateway/notification_publiccode/actions/workflows/tests.yml/badge.svg)](https://github.com/CommonGateway/notification_publiccode/actions/workflows/tests.yml)
 
 An implementation of a Common Gateway configuration for generating an API. OAS and testdata for VNG notifications api.
