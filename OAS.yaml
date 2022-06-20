@@ -1,4 +1,6 @@
 openapi: 3.0.0
+servers:
+  - url: localhost/api
 info:
   title: Notification API
   description: "The API consists of three parts:
